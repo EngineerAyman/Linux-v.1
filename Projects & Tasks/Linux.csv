@@ -1,0 +1,52 @@
+ls,List files and directories in the current directory.
+cd,Change directory.
+pwd,Print the current working directory.
+mkdir,Create a new directory.
+rm,Remove files or directories.
+cp,Copy files and directories.
+mv,Move or rename files and directories.
+cat,Concatenate and display file content.
+less,View file content interactively.
+head,Display the first lines of a file.
+tail,Display the last lines of a file.
+grep,Search for patterns in files.
+find,Search for files and directories.
+chmod,Change file permissions.
+chown,Change file owner and group.
+chgrp,Change group ownership of files.
+touch,Create an empty file or update file timestamps.
+file,Determine file type.
+tar,Create or extract tar archives.
+zip,Create or extract zip archives.
+unzip,Extract files from a zip archive.
+wget,Download files from the web.
+curl,Transfer data to or from a server.
+ssh,Connect to a remote server using SSH.
+scp,Copy files between local and remote systems over SSH.
+ping,Send ICMP echo requests to a host.
+ifconfig,Display or configure network interfaces.
+netstat,Display network connections and statistics.
+route,Manipulate IP routing tables.
+ssh-keygen,Generate SSH key pairs.
+passwd,Change user password.
+useradd,Create a new user account.
+usermod,Modify user account settings.
+userdel,Delete a user account.
+groupadd,Create a new group.
+groupmod,Modify group settings.
+groupdel,Delete a group.
+sudo,Execute a command as a superuser.
+su,Switch to another user account.
+who,Display who is logged in.
+ps,Display running processes.
+top,Monitor system processes and resource usage.
+kill,Terminate processes by ID or name.
+df,Display disk space usage.
+du,Estimate file and directory space usage.
+free,Display memory usage.
+uname,Print system information.
+date,Display or set the system date and time.
+history,View command history.
+man,Display the manual page of a command.
+clear,Clear the terminal screen.
+exit,Exit the current shell session.
